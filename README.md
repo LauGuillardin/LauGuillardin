@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LauGuillardin
 - 👀 I’m interested in Forest Genomics and Bioinformatics
 - 🌱 I’m currently learning Population Genetics
-- 📫 How to reach me: laura.guillardin@biology.ox.ac.uk
+- 📫 How to reach me: lauraguillardin@gmail.com
 
 <!---
 LauGuillardin/LauGuillardin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
